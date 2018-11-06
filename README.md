@@ -1,4 +1,7 @@
 # karl-pilkingbot
+
+![Alrite.](https://i.gifer.com/1meP.gif)
+
 A Karl Pilkington bot for reddit.
 
 Whenever a user makes a comment that includes the phrase "glass houses", the Bot will respond with Karl's wonderful quote: "People who live in glass houses hafta answer tha door."
