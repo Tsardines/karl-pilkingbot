@@ -1,6 +1,6 @@
 # karl-pilkingbot
 
-![Alrite.](https://i.gifer.com/1meP.gif)
+![Alrite.](https://media.giphy.com/media/1uytSoxnWSIoM/giphy.gif)
 
 A Karl Pilkington bot for reddit.
 
